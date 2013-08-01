@@ -4,3 +4,5 @@ line3
 file4
 file5
 file6
+line7
+line\8
